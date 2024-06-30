@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#222222</color>
+    <color name="white">#E9E9E9</color>
+
+    <color name="material_green_500">#FF4CAF50</color> <!-- Verde Primário -->
+    <color name="material_green_700">#FF388E3C</color> <!-- Verde Escuro -->
+    <color name="material_green_300">#FF8BC34A</color> <!-- Verde Claro -->
+
+    <!-- Blue Colors -->
+    <color name="material_blue_500">#FF2196F3</color> <!-- Azul Primário -->
+    <color name="material_blue_700">#FF1976D2</color> <!-- Azul Escuro -->
+    <color name="material_blue_300">#FF03A9F4</color> <!-- Azul Claro -->
+</resources>

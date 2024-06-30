@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FuelCalculator</string>
+    <string name="gasoline_price_label">Gasoline Price</string>
+    <string name="ethanol_price_label">Ethanol Price</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="gasoline_consumption_label">Gasoline Consumption Km/l</string>
+    <string name="ethanol_consumption_label">Ethanol Consumption Km/l</string>
+    <string name="result_label">Refuel with %s</string>
+    <string name="gasoline">Gasoline</string>
+    <string name="ethanol">Ethanol</string>
+    <string name="consumption_label">Know the vehicle consumption</string>
+    <string name="please_enter_valid_prices">Please enter valid prices for both fuels.</string>
+    <string name="please_enter_valid_consumptions">Please enter valid consumption values for both fuels.</string>
+    <string name="clean_label">Clear</string>
+</resources>
